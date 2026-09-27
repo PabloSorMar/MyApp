@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Angular / Ionic build outputs
+.angular/
+**/.angular/
+www/
+**/www/
+dist/
+**/dist/
+
+# IDE / Editor
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
